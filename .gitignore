@@ -1,0 +1,47 @@
+# Графика
+**/Assets/Art/
+**/*.dds
+**/*.nif
+**/*.kf
+**/*.kfm
+**/*.tga
+**/*.bmp
+**/*.jpg
+**/*.jpeg
+**/*.png
+
+# Звук и видео
+**/Assets/Sounds/
+**/Assets/Sound/
+**/*.mp3
+**/*.wav
+**/*.bik
+**/*.ogg
+
+# Игровые архивы ресурсов
+**/*.fpk
+
+# Мусор
+**/__pycache__/
+**/*.pyc
+**/*.log
+
+# IDE / build cache
+**/.vs/
+**/*.sdf
+**/*.obj
+**/*.pdb
+**/*.idb
+**/*.ilk
+
+# Bundled build dependencies
+**/Project Files/WindowsSDK/
+**/Project Files/bin/
+**/Project Files/DLLSources/Python24/
+
+# Runtime binaries not needed for analysis
+**/*.exe
+**/*.dll
+
+# Keep the actual custom game DLL
+!**/Assets/CvGameCoreDLL.dll

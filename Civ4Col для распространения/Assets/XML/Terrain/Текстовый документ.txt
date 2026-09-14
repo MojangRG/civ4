@@ -1,0 +1,16 @@
+/Assets/XML/Buildings/CIV4BuildingInfos.xml
+/Assets/Art/Interface/Main Menu/we-the-people-logo.dds b/Assets/Art/Interface/Main Menu/we-the-people-logo.dds
+/Assets/CvGameCoreDLL.dll
+/Assets/XML/Civilizations/CIV4LeaderHeadInfos.xml
+/Assets/XML/Civilizations/CIV4TraitInfos.xml
+/Assets/XML/GameInfo/CIV4FatherInfos.xml
+/Assets/XML/GameInfo/CIV4GoodyInfo.xml
+/Assets/XML/GameInfo/CIV4HandicapInfo.xml
+/Assets/XML/Terrain/CIV4YieldInfos.xml
+/Assets/XML/Text/CIV4GameText_Colonization.xml
+/Assets/XML/Text/CIV4GameText_Credits_Readme_Hints.xml
+/Assets/XML/Text/CIV4GameText_RaR_Release1.xml
+/Assets/XML/Text/CIV4GameText_RaR_Release2.xml
+/Assets/XML/Text/CIV4GameText_TAC.xml
+/Assets/XML/Units/CIV4ProfessionInfos.xml
+/Assets/XML/Units/CIV4UnitInfos.xml
